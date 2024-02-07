@@ -1,3 +1,5 @@
+[![Python application test with GitHub Actions](https://github.com/p-atharva/aws_microservice/actions/workflows/devops.yml/badge.svg)](https://github.com/p-atharva/aws_microservice/actions/workflows/devops.yml)
+
 # aws_microservice
 Learning Aws microservice from youtube tutorial
 
