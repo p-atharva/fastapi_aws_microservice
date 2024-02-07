@@ -1,6 +1,7 @@
 [![Python application test with GitHub Actions](https://github.com/p-atharva/aws_microservice/actions/workflows/devops.yml/badge.svg)](https://github.com/p-atharva/aws_microservice/actions/workflows/devops.yml)
 # aws_microservice
-Learning Aws microservice from youtube tutorial
+Using Wikipedia API and creating FastAPI to search a name and one-line summary for the said person. Doing Continuous Integration and Testing with GitHub Actions.
+Creating a Docker Container, for containerization and working on Continous Deployment using AWS ECR.
 
 ## SCaffold
 
